@@ -1,0 +1,26 @@
+h1 {
+    color: blue;
+}
+
+.red-heading {
+    color: red;
+}
+
+
+#welcome {
+    background-color: grey
+}
+
+#welcome, #about {
+    border: 1px solid #ccc;
+    padding: 10px;
+    margin-bottom: 5px;
+}
+
+#welcome p {
+    font-size: 16px;
+}
+
+body {
+    background-color: pink;
+}
